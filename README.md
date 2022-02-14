@@ -6,3 +6,6 @@ prettier
 tslint
 eslint
 git hooks
+
+## How to use
+For each project, add the two files in in the "/" directory.
